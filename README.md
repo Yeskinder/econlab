@@ -78,6 +78,7 @@ All data is stored in a local SQLite database (`finance.db`). The database is cr
 
 ## Project Structure
 
+```
 telegram-finance-bot/
 ├── bot.py           # Main bot application
 ├── database.py      # Database operations
@@ -86,7 +87,7 @@ telegram-finance-bot/
 ├── .env             # Your configuration (create this)
 ├── finance.db       # SQLite database (auto-created)
 └── README.md        # This file
-
+```
 ---
 
 ## Technologies Used
